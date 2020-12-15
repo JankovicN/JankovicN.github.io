@@ -217,7 +217,7 @@ nav {
 
 .naslovna-slika {
     margin-top: 8vh;
-    background: url("slike/naslovna.jpg");
+    background: url("../slike/naslovna.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
