@@ -239,7 +239,7 @@ nav {
         width: 80vw;
     }
     .naslovna-slika {
-        background: url(/slike/mobile.jpg);
+        background: url(../slike/mobile.jpg);
         background-size: cover;
         height: 70vh;
         background-repeat: no-repeat;
@@ -1165,7 +1165,7 @@ footer {
 
 #slikaMisija {
     flex: 13;
-    background-image: url("slike/z1.jpg");
+    background-image: url("../slike/z1.jpg");
     background-size: 100%;
 }
 
@@ -1176,7 +1176,7 @@ footer {
 
 #slikaVizija {
     flex: 13;
-    background-image: url("slike/misija.jpg");
+    background-image: url("../slike/misija.jpg");
     background-size: 100%;
 }
 
@@ -1205,7 +1205,7 @@ footer {
 
 #slikaCilj {
     flex: 13;
-    background-image: url("slike/z6.jpg");
+    background-image: url("../slike/z6.jpg");
     background-size: 100%;
 }
 
